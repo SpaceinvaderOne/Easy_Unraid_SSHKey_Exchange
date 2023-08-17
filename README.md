@@ -38,6 +38,6 @@ Execute the script using the User Scripts interface. This will generate an inter
 
 - **Key Exchange**: Once the details are provided, the script will exchange SSH keys with the remote server, ensuring a secure connection.
 
-- **Addressing Unraid's Quirk**: The script will also run `ssh-keyscan` to tackle a known Unraid issue: '"hostfile_replace_entries" failed for /root/.ssh/known_hosts'.
+- **Addressing Unraid's Quirk**: The script will also run `ssh-keyscan` to tackle a strange Unraid issue: '"hostfile_replace_entries" failed for /root/.ssh/known_hosts'.
 
 - **Completion**: After these steps, you'll be able to securely log into the remote server without needing a password.
