@@ -14,7 +14,7 @@ Using SSH keys provides a safer way to log into a server compared to password-ba
 
 ### 1. Set Up the Script on Unraid
 
-- **Copy the Script**: First, get a copy of our key exchange script. This can be done by copying the script directly from this repository.
+- **Copy the Script**: First, get a copy of the key exchange script. This can be done by copying the script directly from this repository.
   
 - **Paste into Unraid User Scripts**: Navigate to the Unraid web interface and find the User Scripts plugin. Create a new script and paste the copied key exchange script into it.
 
